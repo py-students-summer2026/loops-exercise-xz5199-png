@@ -124,4 +124,3 @@ def ten(text):
         print(text[i], end='')
         i -= 1
     print('"') # end quote and line break
-
